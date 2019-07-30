@@ -1,0 +1,15 @@
+/**
+ *Submitted for verification at Etherscan.io on 2019-07-29
+*/
+
+/**
+ * Do not send tokens to this contract directly!
+ * 
+ * Allows EDG token holders to lend the Edgeless Casino tokens for the bankroll.
+ * Users may pay in their tokens at any time, but they will only be used for the bankroll
+ * begining from the next cycle. When the cycle is closed, they may
+ * withdraw their stake of the bankroll. The casino may decide to limit the number of tokens
+ * used for the bankroll.
+ * Non-withdrawn tokens after cycle is finished is not automaticaly staked for the next round,
+ * but they can be withdrawn by staker in any time.
+ * author: Rytis Grincevicius <
